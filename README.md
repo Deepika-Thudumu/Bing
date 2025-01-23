@@ -15,12 +15,6 @@ A simple web application built with React and Vite that allows users to search f
 - **Vite**: A next-generation, fast, and lean build tool.
 - **CSS**: For styling the application.
 
-## Getting Started
-
-### Prerequisites
-
-Ensure that you have [Node.js](https://nodejs.org/) installed on your system.
-
 ## Usage
 
 1. Type the name of a movie into the search bar.
